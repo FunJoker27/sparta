@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Caesar Dressing Cyrillic";
+    font-display: swap;
+    src: url("/fonts/caesardressingcyrillic.woff2") format("woff2"),
+    url("/fonts/caesardressingcyrillic.woff") format("woff"),
+    url("/fonts/caesardressingcyrillic.ttf") format("ttf"),
+    url("/fonts/caesardressingcyrillic.eot") format("eot");
+    font-weight: 400;
+    font-style: normal;
+}
